@@ -1,7 +1,7 @@
 # Docker & Git Дадлагын Даалгавар
 
 ## Төслийн тухай
-Docker болон Git-ийн үндсэн зарчмуудыг судалж, Express.js backend API-ийг чингэлэгжүүлсэн (containerize) дадлагын төсөл.
+Docker болон Git-ийн үндсэн зарчмуудыг судалж, Express.js backend API-ийг чингэлэгжүүлсэн (containerize) даалгавар
 
 ## Судалсан ойлголтууд
 - **Docker:** Image build, Container run, Port Mapping (-p 3000:3000), .dockerignore.
